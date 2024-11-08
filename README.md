@@ -15,3 +15,7 @@ uv run streamlit run main.py
 pip install -r requirements.txt
 streamlit run main.py
 ```
+
+
+## demo
+<video src="demo/movie.mov">
