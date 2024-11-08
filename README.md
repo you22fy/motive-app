@@ -18,4 +18,9 @@ streamlit run main.py
 
 
 ## demo
-<video src="demo/movie.mov">
+
+
+https://github.com/user-attachments/assets/95395d67-e9fc-4504-b541-167fc9a26e1a
+
+
+
